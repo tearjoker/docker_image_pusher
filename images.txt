@@ -1,2 +1,2 @@
-piaoyizy/openwrt-x86
+linkease/linkease:latest
 
